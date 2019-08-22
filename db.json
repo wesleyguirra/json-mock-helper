@@ -1,0 +1,120 @@
+{
+    "estampas": {
+        "estampas":[
+            {
+               "nome":"171.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/171.svg",
+               "tags": ["carros", "ilustrações"],
+               "categoria": 1
+            },
+            {
+               "nome":"animais_1.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/animais_1.svg",
+               "tags": ["animais", "onça"],
+               "categoria": 2
+            },
+            {
+               "nome":"animais_2.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/animais_2.svg",
+               "tags": ["animais", "polvo"],
+               "categoria": 2
+            },
+            {
+               "nome":"animais_3.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/animais_3.svg",
+               "tags": ["animais", "geometrico", "alce"],
+               "categoria": 2
+            },
+            {
+               "nome":"animais_4.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/animais_4.svg",
+               "tags": ["animais", "geometrico", "tubarao"],
+               "categoria": 2
+            },
+            {
+               "nome":"animais_5.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/animais_5.svg",
+               "tags": ["animais", "geometrico", "urso"],
+               "categoria": 2
+            },
+            {
+               "nome":"animais_6.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/animais_6.svg",
+               "tags": ["animais", "geometrico", "tigre"],
+               "categoria": 2
+            },
+            {
+               "nome":"animais_7.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/animais_7.svg",
+               "tags": ["animais", "coruja"],
+               "categoria": 2
+            },
+            {
+               "nome":"animais_8.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/animais_8.svg",
+               "tags": ["animais", "flamingo"],
+               "categoria": 2
+            },
+            {
+               "nome":"animais_9.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/animais_9.svg",
+               "tags": ["animais", "tigre"],
+               "categoria": 2
+            },
+            {
+               "nome":"funny_9.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/funny_9.svg",
+               "tags": ["animais", "gatos", "engraçados"],
+               "categoria": 3
+            },
+            {
+               "nome":"lettering_2.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/lettering_2.svg",
+               "tags": ["amor", "texto", "love"],
+               "categoria": 4
+            },
+            {
+               "nome":"lettering_3.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/lettering_3.svg",
+               "tags": ["reggae", "paz", "love", "letreiro"],
+               "categoria": 4
+            },
+            {
+               "nome":"oriental_1.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/oriental_1.svg",
+               "tags": ["oriental", "peixes", "samurai"],
+               "categoria": 5
+            },
+            {
+               "nome":"pessoas_1.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/pessoas_1.svg",
+               "tags": ["pessoas", "verão", "love"],
+               "categoria": 6
+            },
+            {
+               "nome":"signo_1.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/signo_1.svg",
+               "tags": ["astrologia", "gêmeos", "signo"],
+               "categoria": 7
+            },
+            {
+               "nome":"transformers.jpg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/transformers.jpg",
+               "tags": ["transformers", "robô"],
+               "categoria": 8
+            },
+            {
+               "nome":"valentines_1.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/valentines_1.svg",
+               "tags": ["amor", "love", "romantico", "namorados", "coração"],
+               "categoria": 9
+            },
+            {
+               "nome":"valentines_2.svg",
+               "url":"https://s3.amazonaws.com/pne-cpe-estampas-homolog/valentines_2.svg",
+               "tags": ["amor", "love", "romantico", "namorados", "coração", "floral"],
+               "categoria": 9
+            }
+         ]
+    }
+}
