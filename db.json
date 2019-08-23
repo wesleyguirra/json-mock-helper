@@ -115,6 +115,19 @@
                "tags": ["amor", "love", "romantico", "namorados", "coração", "floral"],
                "categoria": 9
             }
-         ]
+        ]
+    },
+    "categorias": {
+        "categorias": [
+            {"id": 1, "nome": "Veículos"},
+            {"id": 2, "nome": "Animais"},
+            {"id": 3, "nome": "Divertidos"},
+            {"id": 4, "nome": "Lettering"},
+            {"id": 5, "nome": "Oriental"},
+            {"id": 6, "nome": "Pessoas"},
+            {"id": 7, "nome": "Signos"},
+            {"id": 8, "nome": "Robôs"},
+            {"id": 9, "nome": "Romântico"}
+        ]
     }
 }
